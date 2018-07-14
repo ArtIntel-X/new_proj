@@ -1,4 +1,4 @@
-// This program implements the bank system : All english
+// This program implements the bank system
 // By made Dmitriy Yershov
 
 #include <iomanip>
